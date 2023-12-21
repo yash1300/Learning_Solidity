@@ -4,6 +4,7 @@
 
 <p>This link will take you that website where you can also start your journey in solidity</p>
 <a href="https://cryptozombies.io/en/course">Click here</a>
+<br>
 
 <p>
   Solidity is a programming language specifically designed for writing smart contracts on the Ethereum blockchain.
