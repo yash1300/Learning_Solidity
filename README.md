@@ -14,5 +14,5 @@
 <p>
   We are using the cryptozombies.io platform or website to learn this language.
   one can easily learn from this website as it helps the beginners to learn things with the help of game 
-  which remains with any beginner for a long period of time as it gives us a feeling of solving a problem
+  which remains with any beginner for a long period of time as it gives us a feeling of solving a problem.
 </p>
