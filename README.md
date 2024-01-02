@@ -16,3 +16,8 @@
   one can easily learn from this website as it helps the beginners to learn things with the help of game 
   which remains with any beginner for a long period of time as it gives us a feeling of solving a problem.
 </p>
+
+<p>
+  While going through the 02_Solidity in that file 01_file is updated version of the 01_Solidity file, and 
+  the continuation of that is o2_file(inside the 02_Solidity file).
+</p>
